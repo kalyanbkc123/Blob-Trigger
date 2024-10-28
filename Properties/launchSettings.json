@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Blob_Trigger": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7042",
+      "launchBrowser": false
+    }
+  }
+}
